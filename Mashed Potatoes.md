@@ -12,7 +12,7 @@ Milk, to consistency (or almond milk, if non-dairy)
 
 1.45 tbsp parsley
 
-Cook potatoes until tender / mashable (can easily pierce with fork, almost fall apart).  Drain, then mash potatoes.  Add cut-up butter or margarine, parsley, salt, and pressed garlic.  Mix with mixer, adding milk to consistency
+Cube and cook potatoes until tender / mashable (can easily pierce with fork, almost fall apart).  Drain, then mash potatoes.  Add cut-up butter or margarine, parsley, salt, and pressed garlic.  Mix with mixer, adding milk to consistency
 
 References:
 
