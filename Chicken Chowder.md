@@ -19,7 +19,7 @@ by:  Kathie Budnack
 ## Instructions:
 Start preparation the night before you plan to serve it. Use a large crockpot. Cook (boil) a whole chicken or chicken parts for 90min. Remove skin and bones and cut up the meat into small pieces and add to the pot. Add the chicken broth.
 
-Boil the navy beans with 3 cups of water for 2 minutes. Let set for an hour and add to pot. 
+Boil the navy beans with 3 cups of water for 2 minutes. Let set for an hour and add to cpot. 
 
 Peel the carrots and cut into small chunks. Cut the celery into small pieces. Peal and cube the potatoes. Add these to the pot. 
 
