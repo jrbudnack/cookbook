@@ -1,4 +1,5 @@
 # Parmesan Crusted Pork Chops
+
 From:  https://www.foodnetwork.com/recipes/giada-de-laurentiis/parmesan-crusted-pork-chops-recipe-1944476
 
 ### Ingredients
@@ -14,3 +15,5 @@ From:  https://www.foodnetwork.com/recipes/giada-de-laurentiis/parmesan-crusted-
 - Sprinkle chops with salt and pepper
 - Coat each chop with cheese, then egg wash, then bread crumbs
 - Heat oil in large skillet over medium heat, cook chops about 6 min. per side.  Center must reach 150F
+OR
+- Bake in oven for 25 min at 425F
