@@ -20,6 +20,6 @@ For baking from frozen:
 - Mix together spices in a small bowl
 - Spread spices out on to filets
 - Dot the filets with little squares of butter
-- Put in oven for ~35 min.  Keep checking until
+- Put in oven for ~35 min.  Keep checking until temperature is at least 145F
 - Mix relish and mayonnaise to make tartar sauce
 - Cut lemon into wedges to serve as garnish
