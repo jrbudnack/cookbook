@@ -11,7 +11,7 @@ by:  Kathie Budnack
 * 1 Teaspoon Sugar
 
 ## Instructions
-* Brown the hamburger
+* Brown the hamburger, drain 
 * Mix all ingredients into CrockPot
 * Cook 1 Hour on High
 * Cook for the rest of the day on Low (at least 6 hours)
