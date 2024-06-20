@@ -1,6 +1,6 @@
 ---
 created: 2024-06-20T13:45:12-04:00
-modified: 2024-06-20T15:23:05-04:00
+modified: 2024-06-20T15:24:54-04:00
 ---
 
 # Italian Green Beans
@@ -14,7 +14,7 @@ modified: 2024-06-20T15:23:05-04:00
 - black pepper 
 
 ## Instructions
-- Slice/chop 5 cloves of garlic into smallish piece.
+- Slice/chop 5 cloves of garlic into smallish pieces.
 - Bring about a 1/2 cup of water (the exact amount doesn’t matter) to a boil and add the green beans in.
 - Cover with a lid and let them steam for 2-3 minutes until bright green. Strain them in a colander and wipe the pan of any residual water.
 - Heat the pan to medium-low and add a 1/4 cup of olive oil.
