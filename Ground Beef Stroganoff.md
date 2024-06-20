@@ -1,6 +1,6 @@
 ---
 created: 2024-06-20T15:27:53-04:00
-modified: 2024-06-20T15:34:25-04:00
+modified: 2024-06-20T17:42:47-04:00
 ---
 
 # Ground Beef Stroganoff
@@ -21,7 +21,7 @@ modified: 2024-06-20T15:34:25-04:00
 
 ## Instructions
 1.
-Heat 1 tablespoon oil in Dutch oven over medium-high heat until shimmering. Add mushrooms and 1/4 teaspoon salt and cook until liquid has evaporated and mushrooms begin to brown, 5 to 7 minutes; transfer to bowl.
+Heat 1 tablespoon oil over medium-high heat until shimmering. Add mushrooms and 1/4 teaspoon salt and cook until liquid has evaporated and mushrooms begin to brown, 5 to 7 minutes; transfer to bowl.
 2.
 Add remaining 1 tablespoon oil to now-empty pot and return to medium-high heat until shimmering. Add onion, garlic, 1/2 teaspoon salt, and 1/2 teaspoon pepper and cook, stirring occasionally, until onion begins to soften, about 5 minutes. Add beef, 1/4 teaspoon salt, and 1/4 teaspoon pepper and cook, breaking up meat with spoon, until no longer pink, 5 to 7 minutes.
 3.
