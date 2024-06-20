@@ -1,16 +1,17 @@
 ---
 created: 2024-06-20T13:45:12-04:00
-modified: 2024-06-20T13:46:20-04:00
+modified: 2024-06-20T15:20:35-04:00
 ---
 
 # Italian Green Beans
 
--Green beans
--5 cloves garlic
--1/4 cup olive oil
--1/4 cup extra virgin olive oil
--1 tsp salt
--black pepper 
+## Ingredients 
+- green beans
+- 5 cloves garlic
+- 1/4 cup olive oil
+- 1/4 cup extra virgin olive oil
+- 1 tsp salt
+- black pepper 
 
 Slice or chop 5 cloves of garlic into smallish pieces
 Bring about a 1/2 cup of water (the exact amount doesn’t matter) to a boil and add the green beans in.
