@@ -9,6 +9,7 @@ by:  Kathie Budnack
 * 1 Can Busch's Chili Magic
 * 1 Packet Chili Mix (or 2 packets hot chili mix)
 * 1 Teaspoon Sugar
+* cayenne pepper 
 
 ## Instructions
 * Brown the hamburger, drain 
