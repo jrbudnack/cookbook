@@ -1,6 +1,6 @@
 ---
 created: 2024-06-20T15:27:53-04:00
-modified: 2024-08-29T16:44:13-04:00
+modified: 2024-08-29T20:02:09-04:00
 ---
 
 # Ground Beef Stroganoff
@@ -10,12 +10,12 @@ modified: 2024-08-29T16:44:13-04:00
 - 8 ounces white mushrooms, sliced thin
 - salt and pepper
 - 1 onion, chopped fine
-- 2 garlic cloves, minced
+- 3 garlic cloves, minced
 - 1-2 pounds 85 percent lean ground beef
-- 3 tablespoons all-purpose flour
+- 4 tablespoons all-purpose flour
 - 4 cups chicken broth
 - ¼ cup dry white wine
-- 8 ounces (4 cups) egg noodles
+- 12 ounces (4 cups) egg noodles
 - ½ cup sour cream, plus extra for serving
 - 2 tablespoons minced fresh chives
 
