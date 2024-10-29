@@ -1,6 +1,6 @@
 ---
 created: 2024-10-29T02:15:44-04:00
-modified: 2024-10-29T02:20:23-04:00
+modified: 2024-10-29T02:21:48-04:00
 ---
 
 # Sweet Potato Casserole
@@ -23,44 +23,6 @@ Pistachio crust:
 - ½ cup light brown sugar
 - ⅓ cup all-purpose flour
 - ¼ cup butter, melted
-
-Directions
-
-Ingredients
-
-Sweet potatoes:
-
-2 ½ pounds sweet potatoes, peeled and cubed
-
-salt
-
-2 tablespoons butter
-
-2 large eggs
-
-¼ cup maple syrup
-
-¼ cup buttermilk
-
-⅓ cup milk
-
-½ teaspoon vanilla extract
-
-½ teaspoon salt
-
-1 pinch ground allspice
-
-1 pinch cayenne pepper
-
-Pistachio crust:
-
-½ cup chopped roasted, salted pistachios
-
-½ cup light brown sugar
-
-⅓ cup all-purpose flour
-
-¼ cup butter, melted
 
 Directions: 
 Preheat oven to 350 degrees F (175 degrees). Grease a 2 1/2-quart baking dish with butter.
