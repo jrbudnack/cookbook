@@ -1,6 +1,7 @@
 # Eggs
+
 ## Hard Boiled
-* Add egss to pot
+* Add eggs to pot
 * Add water to pot, about 1-2 inches above eggs
 * Add 1/2 teaspoon of salt to water
 * Bring water to a rolling boil on high heat
