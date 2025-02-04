@@ -1,6 +1,6 @@
 ---
 created: 2024-06-20T15:27:53-04:00
-modified: 2024-08-29T20:02:09-04:00
+modified: 2025-02-04T13:20:09-05:00
 ---
 
 # Ground Beef Stroganoff
@@ -15,7 +15,7 @@ modified: 2024-08-29T20:02:09-04:00
 - 4 tablespoons all-purpose flour
 - 4 cups chicken broth
 - ¼ cup dry white wine
-- 12 ounces (4 cups) egg noodles
+- 32 ounces (4 cups) egg noodles
 - ½ cup sour cream, plus extra for serving
 - 2 tablespoons minced fresh chives
 
