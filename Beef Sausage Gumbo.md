@@ -2,20 +2,20 @@
 Source:  https://www.beefitswhatsfordinner.com/recipes/recipe/55717/classic-cajun-beef-gumbo
 
 ## Ingredients:
-* 2 pounds beef Shank Cross-Cut
-* 1 quart + 1/2 cup beef stock
-* 1/2 cup canola oil
-* 1/2 cup all-purpose flour
-* 1 cup diced onion
-* 1/2 cup diced celery
-* 1/2 cup diced green bell pepper
-* 2 tablespoons minced garlic
-* 2 teaspoons dried thyme leaves
-* 2 tablespoons hot pepper sauce
-* 2 tablespoons Worcestershire sauce
-* 1 tablespoon tomato paste
+* 2.5 pounds Top Round Roast, cubed
+* 5 cups + 1/2 cup beef stock
+* 3/4 cup canola oil
+* 3/4 cup all-purpose flour
+* 1 1/4 cup diced onion
+* 3/4 cup diced celery
+* 3/4 cup diced green bell pepper
+* 2.5 tablespoons minced garlic
+* 2.5 teaspoons dried thyme leaves
+* 2.5 tablespoons hot pepper sauce
+* 2.5 tablespoons Worcestershire sauce
+* 1.25 tablespoon tomato paste
 * 1 package (12 ounces) smoked beef sausage, sliced
-* 2 tablespoons Creole Seasoning (Creole Kick)
+* 2.5 tablespoons Creole Seasoning (Creole Kick)
 
 Serving Suggestion:
 Hot cooked rice, sliced green onion, sliced pickled okra, sliced pickled jalapeño (optional)
