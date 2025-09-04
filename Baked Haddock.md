@@ -2,11 +2,11 @@
 
 ## Ingredients
 - 1 lb frozen Haddock filets
-- 1/2 tsp onion powder
-- 1/2 tsp garlic powder
-- 1/2 tsp paprika (or smoked paprika)
-- 1/2 tsp ground black pepper
-- 1/2 tsp salt
+- 1/4 tsp onion powder
+- 1/4 tsp garlic powder
+- 1/4 tsp paprika (or smoked paprika)
+- 1/4 tsp ground black pepper
+- 1/4 tsp salt
 - 1/4 tsp cayenne pepper
 - 1-2 tbsp butter, cut in small squares
 - 1 lemon
