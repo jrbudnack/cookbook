@@ -1,6 +1,6 @@
 ---
 created: 2022-02-23T21:51:48-05:00
-modified: 2025-10-16T21:23:13-04:00
+modified: 2025-10-16T21:25:50-04:00
 ---
 
 # Goulash
@@ -23,4 +23,9 @@ modified: 2025-10-16T21:23:13-04:00
 - Use 2 jars of Chef’s sauce instead of just 1
 - Only 1 can of water
 - Spices
-  -
+  * 2 tsp garlic powder
+  * 2 tsp onion powder
+  * 4 tsp oregano
+  * 1 tsp cayenne pepper
+  * 2 tsp salt
+  * 1/2 to 1 tsp black pepper
