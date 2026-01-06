@@ -11,4 +11,6 @@
 | Well Done        | 155+                | 160+          |
 
 ## In Air Fryer
-* 
+* Spray air fryer plate
+* Season steak both sides
+* Cook for 400F for 12? min (more or less depending on size).  Flip and cook for the same number of minutes
