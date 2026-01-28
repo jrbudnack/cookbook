@@ -1,6 +1,6 @@
 ---
 created: 2025-12-25T16:51:25-05:00
-modified: 2025-12-27T01:23:07-05:00
+modified: 2026-01-28T02:43:51-05:00
 ---
 
 # Zeke Meals
@@ -8,7 +8,9 @@ modified: 2025-12-27T01:23:07-05:00
 BREAKFAST 
 
 Meals
+- Oatmeal packet with fruit and/or walnuts 
 - Bagel or toast with cream cheese 
+- Peanut Butter and/or jelly toast 
 - Bananas with peanut butter
 - Waffle with blueberries and/or banana 
 - O’s cereal with blueberries or banana 
