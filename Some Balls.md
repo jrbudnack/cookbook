@@ -1,6 +1,6 @@
 ---
 created: 2026-01-28T02:29:56-05:00
-modified: 2026-01-28T02:40:39-05:00
+modified: 2026-02-05T17:45:42-05:00
 ---
 
 # Some Balls
@@ -10,7 +10,7 @@ Peanut Butter Oat Chocolate Chip Energy Balls
 Ingredients:
 - 1 cup oats
 - 1/3 cup honey
-- 12 cup creamy peanut butter
+- 1/cup creamy peanut butter
 - 1/2 cup ground flaxseed
 - 1/2 cup miniature chocolate chips
 - 1 cup sweetened coconut flakes
