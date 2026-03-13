@@ -1,4 +1,5 @@
 # Beef Sausage Gumbo
+
 Source:  https://www.beefitswhatsfordinner.com/recipes/recipe/55717/classic-cajun-beef-gumbo
 
 ## Ingredients:
@@ -14,7 +15,7 @@ Source:  https://www.beefitswhatsfordinner.com/recipes/recipe/55717/classic-caju
 * 2.5 tablespoons hot pepper sauce
 * 2.5 tablespoons Worcestershire sauce
 * 1.25 tablespoon tomato paste
-* 1 package (12 ounces) smoked beef sausage, sliced
+* 1 package (12 ounces) smoked Andouille sausage, sliced
 * 2.5 tablespoons Creole Seasoning (Creole Kick)
 
 Serving Suggestion:
