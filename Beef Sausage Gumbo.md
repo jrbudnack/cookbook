@@ -5,7 +5,7 @@ Source:  https://www.beefitswhatsfordinner.com/recipes/recipe/55717/classic-caju
 ## Ingredients:
 * 2.5 pounds Top Round Roast, cubed
 * 5 cups + 1/2 cup beef stock
-* 3/4 cup canola oil
+* 3/4 cup canola or Avocado Oil
 * 3/4 cup all-purpose flour
 * 1 1/4 cup diced onion
 * 3/4 cup diced celery
