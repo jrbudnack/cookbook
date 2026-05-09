@@ -1,3 +1,4 @@
+# Greek Turkey Hash
 ## Ingredients
 * 4 Turkey Legs (2 - 2-packs)
 * 2 Turkey Thighs (1 - 2-pack)
