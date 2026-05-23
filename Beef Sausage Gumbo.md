@@ -18,6 +18,10 @@ Source:  https://www.beefitswhatsfordinner.com/recipes/recipe/55717/classic-caju
 * 1 package (12 ounces) smoked Andouille sausage, sliced
 * 2.5 tablespoons Creole Seasoning (Creole Kick)
 
+Additions as of 2026-05-23:
+* 2 tsp smoked paprika (try adding more?)
+* 2 tbsp red wine vinegar
+
 Serving Suggestion:
 Hot cooked rice, sliced green onion, sliced pickled okra, sliced pickled jalapeño (optional)
 
