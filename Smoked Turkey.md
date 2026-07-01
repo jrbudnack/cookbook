@@ -6,16 +6,7 @@
     
     * 30 min. of smoking time for every 1 lb of turkey + add 1 hour from time put into smoker
     * Keep smoker at 225F as much as possible.
-
-* Turkey Rub Recipe
-    * ¼ cup dark brown sugar
-    * 1 Tablespoon coarse sea salt
-    * 2 teaspoons cracked black pepper
-    * 2 teaspoons smoked paprika ((hot or mild, whichever you prefer))
-    * 2 teaspoons garlic powder
-    * 2 teaspoons onion powder
-    * 1 teaspoon ground mustard
-    * ½ teaspoon cayenne pepper
+    * Make [Sweet Rub](./Sweet Rub.md) and rub it on the turkey
 
 * With 13 lb turkey
     * Thaw turkey 4.5 days in advance (so Saturday afternoon before Thanksgiving, for example)
@@ -38,4 +29,3 @@
 
 * Sources:
     * [https://heygrillhey.com/smoked-turkey](https://heygrillhey.com/smoked-turkey)
-    * [https://heygrillhey.com/best-sweet-rub-grilled-pork-chicken](https://heygrillhey.com/best-sweet-rub-grilled-pork-chicken)
