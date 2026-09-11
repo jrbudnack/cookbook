@@ -1,6 +1,6 @@
 ---
 created: 2025-08-20T04:40:04-04:00
-modified: 2026-09-11T10:13:51-04:00
+modified: 2026-09-11T19:24:59-04:00
 ---
 
 # Chipotle Sauce
@@ -17,4 +17,3 @@ INGREDIENTS:
 
 INSTRUCTIONS:
 - In a blender, place the yogurt, mayo, chipotle pepper, garlic, lime juice, olive oil, and honey. Add a generous pinch of salt and several grinds of pepper and blend until smooth. Season to taste with more salt and pepper.
--
