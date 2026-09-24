@@ -1,6 +1,6 @@
 ---
 created: 2026-09-24T18:26:52-04:00
-modified: 2026-09-24T18:27:32-04:00
+modified: 2026-09-24T18:28:06-04:00
 ---
 
 # Cinnamon Sugar Chocolate Chip Pumpkin Bread
@@ -29,4 +29,3 @@ Directions:
 5.     Pour the rest of the batter into the loaf pan and the remaining cinnamon sugar mixture on top.
 6.     Take a butter knife and press into batter and swirl around.
 7.     Bake for 40-50 minutes
-8.     Enjoy! 😊
