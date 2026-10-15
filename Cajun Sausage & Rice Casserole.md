@@ -1,6 +1,6 @@
 ---
 created: 2026-10-14T01:56:51-04:00
-modified: 2026-10-14T02:00:54-04:00
+modified: 2026-10-15T11:26:13-04:00
 ---
 
 # Cajun Sausage & Rice Casserole
@@ -20,7 +20,7 @@ modified: 2026-10-14T02:00:54-04:00
 - 2 tbsp butter, cut into small pieces
 - 2 green onions, sliced, for serving
 
-Instructions
+Instructions:
 Preheat oven to 375°F and lightly grease a 9×13-inch baking dish.
 Add the uncooked rice, Rotel with its juices, chicken broth, bell peppers, onion, garlic, Cajun seasoning, smoked paprika, thyme and Worcestershire directly to the baking dish. Stir everything together.
 Add the sliced smoked sausage and stir it throughout the rice mixture.
