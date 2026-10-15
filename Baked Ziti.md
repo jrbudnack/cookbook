@@ -1,6 +1,6 @@
 ---
 created: 2026-10-15T11:11:23-04:00
-modified: 2026-10-15T11:14:26-04:00
+modified: 2026-10-15T11:15:46-04:00
 ---
 
 # Baked Ziti
@@ -84,3 +84,9 @@ INGREDIENTS:
 
 STEP 1:
 Gather the ingredients. Cut down the length of each sausage with a sharp knife. Remove and discard casings.
+
+STEP 2:
+Heat olive oil in a large saucepan set over high heat. Add sausages and onion. Cook and stir until sausage is crumbly and browned and onion turns translucent, 5 to 7 minutes. Add oregano, thyme, and rosemary; cook for 1 minute more.
+
+STEP 3:
+Pour in marinara sauce. Pour 1 cup water into each jar to rinse out remaining sauce; add to the saucepan. Stir well and bring sauce to a simmer.
