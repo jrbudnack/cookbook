@@ -1,6 +1,6 @@
 ---
 created: 2026-10-15T11:11:23-04:00
-modified: 2026-10-15T11:23:12-04:00
+modified: 2026-10-15T11:27:04-04:00
 ---
 
 # Baked Ziti
@@ -62,4 +62,4 @@ STEP 7:
 Use a slotted spoon to transfer 1/2 of the pasta-and-sauce mixture to the prepared dish, then use a spatula to spread evenly. Top with 1/2 of the ricotta cheese, 1/2 of the mozzarella cheese, and then 1/2 of the grated Pecorino Romano cheese, being sure to distribute evenly. Top with the remaining pasta-and-sauce mixture and shake the pan gently to settle the sauce. Repeat the layering process with remaining cheese.
 
 STEP 8:
-Bake in the center of the preheated oven until cheese is melted and the casserole is piping hot, 30 to 35 minutes. Remove from the oven and let cool for 10 to 15 minutes before serving. Top with parsley.
+Bake in the center of the preheated oven until cheese is melted and the casserole is piping hot, 30 to 35 minutes. Remove from the oven and let cool for 10 to 15 minutes before serving. Add/ top with parsley.
