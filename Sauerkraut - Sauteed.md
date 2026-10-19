@@ -1,3 +1,4 @@
+# Sauerkraut - Sauteed
 ## Ingredients
 - 1 Bag of Sauerkraut
 - 2 tbsp butter
