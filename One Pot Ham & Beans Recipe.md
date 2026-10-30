@@ -1,6 +1,6 @@
 ---
 created: 2026-10-30T09:44:45-04:00
-modified: 2026-10-30T09:48:51-04:00
+modified: 2026-10-30T09:49:11-04:00
 ---
 
 # One Pot Ham & Beans Recipe
@@ -16,7 +16,7 @@ Ingredients:
 - 8 ounces diced ham
 - ½ teaspoon dried thyme
 - 1 teaspoon Dijon mustard
-- 
+
 Instructions:
 
 1.) Soak the beans: The night before, place the navy beans in a large bowl and cover with several inches of water. Let soak overnight. Drain and rinse before cooking.
