@@ -1,11 +1,11 @@
 ---
 created: 2026-11-13T01:42:42-05:00
-modified: 2026-11-13T01:45:59-05:00
+modified: 2026-11-13T01:46:31-05:00
 ---
 
 # Beef & Barley Soup
 
-- 2 tbsp butter
+2 tbsp butter
 1 medium onion diced
 1 pound ground beef
 1.5 tsp salt
